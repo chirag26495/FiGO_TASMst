@@ -1,6 +1,6 @@
-# FiGO and TASM\* integration in VDBMS
+# Integrating storage manager (TASM) and query optimizer (FiGO) in Video-DBMS
 
-## All major code changes are provided in *`'figo_newds.patch'`* and *`'tasm_patch_withFixforRTX30series.patch'`* files for the successful integration.
+## All code diffs are provided in *`'figo_newds.patch'`* and *`'tasm_patch_withFixforRTX30series.patch'`* corresponding to FiGO and TASM for the successful integration.
 
 ```
 git clone https://github.com/chirag26495/figo_tasmST.git
